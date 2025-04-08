@@ -1,0 +1,5 @@
+{
+  "project_id": "uvcaudfwwhttaggmpzws",
+  "db_url": "postgresql://postgres:postgres@localhost:54322/postgres",
+  "api_url": "https://uvcaudfwwhttaggmpzws.supabase.co"
+}
